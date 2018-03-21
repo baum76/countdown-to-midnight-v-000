@@ -1,6 +1,6 @@
 def countdown(num)
   # while num
-  # 
+  #
   # end
   return "HAPPY NEW YEAR!"
 end

@@ -1,7 +1,7 @@
 def countdown(num)
-  while num
-
-  end
+  # while num
+  # 
+  # end
   return "HAPPY NEW YEAR!"
 end
 
